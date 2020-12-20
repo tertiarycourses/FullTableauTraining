@@ -1,5 +1,5 @@
 # Full Tableau Training
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Full Tableau Training](https://www.tertiarycourses.com.sg/full-tableau-data-visualization-training.html) course. 
 
